@@ -9,7 +9,7 @@ const ExperiecncePage = () => {
         <div className="experience-item">
           <h3 className="experience-role">Frontend Developer</h3>
           <span className="experience-company">Nebula Technology</span>
-          <span className="experience-date">Feb 2023 - Present</span>
+          <span className="experience-date">may 2023 - Present</span>
           <ul className="experience-details">
             <li>Developed Responsive Web Applications: Built and maintained user-friendly, responsive web applications using HTML5, CSS3, and JavaScript, ensuring compatibility across multiple devices and browsers.</li>
             <li> Libraries: Utilized React.js for dynamic and interactive user interfaces. Implemented Redux for state management.</li>
